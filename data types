@@ -1,0 +1,10 @@
+#include<stdio.h>
+  void main()
+{
+  integer=10;
+  characater="tatuni";
+  float=1.12;
+  printf("%d\n",integer);
+  printf("%c\n",character);
+  printf("%d\n",float);
+}
